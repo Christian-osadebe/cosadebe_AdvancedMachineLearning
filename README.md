@@ -7,9 +7,11 @@ function, and regularization (dropout, L2).
 
 ## Files
 
-- `Assignment1_Report.pdf` — summary report: objective, approach, results,
+- `
+Name		
+Assignment_1.docx` — summary report: objective, approach, results,
   findings, conclusions, recommendation.
-- `Assignment1_IMDB.ipynb` — the full experiment notebook (code, outputs,
+- `IMDB_experiment_script.ipynb` — the full experiment notebook (code, outputs,
   plots).
 
 ## Method
@@ -35,7 +37,7 @@ Fixed protocol for every run, as in class:
 
 ## How to run
 
-Open `Assignment1_IMDB.ipynb` in Google Colab and run all cells in order.
+Open `IMDB_experiment_script.ipynb` in Google Colab and run all cells in order.
 Each model trains on the IMDB dataset (downloaded automatically) and prints
 final validation accuracy, best validation accuracy, test loss, and test
 accuracy.
