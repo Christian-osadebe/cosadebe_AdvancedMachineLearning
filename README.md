@@ -14,8 +14,6 @@ function, and regularization (dropout, L2).
 
 ## Method
 
-Fixed protocol for every run, as in class:
-
 - Inputs: one-hot (multi-hot) encoded reviews, 10,000 most frequent words
 - Optimizer: rmsprop; 20 epochs; batch size 512
 - Validation: first 10,000 training samples; rest for training
