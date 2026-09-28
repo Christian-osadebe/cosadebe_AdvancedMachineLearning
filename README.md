@@ -5,11 +5,9 @@ ReLU network from class and measures how one change at a time affects
 performance: hidden-layer depth, layer width, loss function, activation
 function, and regularization (dropout, L2).
 
-## Files
+## Files Name
 
-- `
-Name		
-Assignment_1.docx` — summary report: objective, approach, results,
+- `Assignment_1.docx` — summary report: objective, approach, results,
   findings, conclusions, recommendation.
 - `IMDB_experiment_script.ipynb` — the full experiment notebook (code, outputs,
   plots).
