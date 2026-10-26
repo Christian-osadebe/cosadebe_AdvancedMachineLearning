@@ -1,6 +1,6 @@
-# Assignment 2: Convolution
+# Convolution Networks 
 
-BA 64061 Advanced Machine Learning — Christian Osadebe
+Advanced Machine Learning
 
 Cats & Dogs classification at training sizes 1,000 / 1,500 / 2,000, from scratch vs. pretrained VGG16. Validation and test fixed at 500 each.
 
